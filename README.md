@@ -7,5 +7,5 @@ Allows you to add your favourite sites and check their status.
 - Client - Angular
 
 # Screenshots
-![alt tag](https://github.com/adrianmydlowski/pingIT/blob/main/screenshots/main_view.png) </br>
-![alt tag](https://github.com/adrianmydlowski/pingIT/blob/main/screenshots/add_server.png) </br>
+![alt tag](https://github.com/adrianmydlowski/pingIT/blob/main/screenshots/main_view.PNG) </br>
+![alt tag](https://github.com/adrianmydlowski/pingIT/blob/main/screenshots/add_server.PNG) </br>
